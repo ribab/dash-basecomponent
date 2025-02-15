@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='dash_basecomponent',
-    version='0.1.0',
+    version='0.1.1',
     description='A base component library for Dash applications',
     author='Richard Barella Jr.',
     author_email='codingwithricky@gmail.com',
