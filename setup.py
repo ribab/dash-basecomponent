@@ -5,11 +5,11 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name='dash_basecomponent',
-    version='0.1.2',
+    version='0.1.3',
     description='A base component library for Dash applications',
     author='Richard Barella Jr.',
     author_email='codingwithricky@gmail.com',
-    url='https://github.com/ribab/dash_basecomponent',
+    url='https://github.com/ribab/dash-basecomponent',
     packages=find_packages(exclude=['tests', 'examples']),
     install_requires=[
         'dash>=2.0.0',
