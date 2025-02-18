@@ -2,8 +2,6 @@
 
 # Motivation here is to use https://dash.plotly.com/all-in-one-components
 
-# I don't want to have to define the id for a component in one place, and then define the actual component in another place. I want to do these two in the same place
-
 import uuid, inspect, os
 from dash import Output, Input, State, MATCH, ALL, ALLSMALLER
 
