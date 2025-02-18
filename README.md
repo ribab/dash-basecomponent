@@ -1,5 +1,4 @@
-# Dash Base Component
-=====================
+# Dash BaseComponent
 
 A collection of reusable base components for building Dash applications.
 
