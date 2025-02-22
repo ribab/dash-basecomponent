@@ -1,10 +1,8 @@
 # Dash BaseComponent
 
-A collection of reusable base components for building Dash applications.
+A BaseComponent class for building modular Plotly Dash apps.
 
-## Overview
-
-This project provides a set of base components that can be used to build Dash applications. These components are designed to be reusable and customizable, making it easier to build complex Dash applications.
+See [this article](https://www.codingwithricky.com/2025/02/15/dash-basecomponent/) for more info.
 
 ## Installation
 
