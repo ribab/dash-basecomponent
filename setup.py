@@ -5,7 +5,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name='dash_basecomponent',
-    version='0.1.3',
+    version='0.1.4',
     description='A base component library for Dash applications',
     author='Richard Barella Jr.',
     author_email='codingwithricky@gmail.com',
